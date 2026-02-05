@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="dragonborn-variant.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/explorers-guide-to-wildemount/races/dragonborn-variant.xml" />
+			<file name="dragonborn-variant.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/explorers-guide-to-wildemount/races/dragonborn-variant.xml" />
 		</update>
 	</info>
 	<element name="Draconblood" type="Race Variant" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_RACE_VARIANT_DRAGONBORN_DRACONBLOOD">

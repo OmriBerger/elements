@@ -3,7 +3,7 @@
 	<info>
 		<name>Artificer Infusions</name>
 		<update version="0.0.1">
-			<file name="artificer-infusions.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/eberron-rising-from-the-last-war/artificer-infusions.xml" />
+			<file name="artificer-infusions.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/eberron-rising-from-the-last-war/artificer-infusions.xml" />
 		</update>
 	</info>
 

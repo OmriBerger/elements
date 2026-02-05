@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="wizard-divination.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//core/players-handbook/archetypes/wizard-divination.xml" />
+			<file name="wizard-divination.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/core/players-handbook/archetypes/wizard-divination.xml" />
 		</update>
 	</info>
 

@@ -3,7 +3,7 @@
 	<info>
 		<name>Spells from Sigil and the Outlands</name>
 		<update version="0.0.2">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/sigil-and-the-outlands/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/sigil-and-the-outlands/spells.xml" />
 		</update>
 	</info>
 

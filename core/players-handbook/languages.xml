@@ -3,7 +3,7 @@
 	<info>
 		<name>Languages</name>
 		<update version="0.0.1">
-			<file name="languages.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//core/players-handbook/languages.xml" />
+			<file name="languages.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/core/players-handbook/languages.xml" />
 		</update>
 	</info>
 

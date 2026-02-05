@@ -5,61 +5,61 @@
 		<description>Supplements from Wizards of the Coast to expand your core gaming elements.</description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
 		<update version="0.6.3">
-			<file name="supplements.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements.index" />
+			<file name="supplements.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements.index" />
 		</update>
 	</info>
 	<files>
-		<file name="ranger-favored-enemies.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/ranger-favored-enemies.xml" />
+		<file name="ranger-favored-enemies.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/ranger-favored-enemies.xml" />
 
-		<file name="lost-mines-phandelver.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/lost-mines-phandelver.index" />
-		<file name="hoard-of-the-dragon-queen.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/hoard-of-the-dragon-queen.index" />
-		<file name="rise-of-tiamat.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/rise-of-tiamat.index" />
-		<file name="princes-of-the-apocalypse.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/princes-of-the-apocalypse.index" />
-		<file name="out-of-the-abyss.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/out-of-the-abyss.index" />
-		<file name="sword-coast-adventurers-guide.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/sword-coast-adventurers-guide.index" />
-		<file name="curse-of-strahd.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/curse-of-strahd.index" />
-		<file name="storm-kings-thunder.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/storm-kings-thunder.index" />
-		<file name="volos-guide-to-monsters.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/volos-guide-to-monsters.index" />
-		<file name="tales-from-the-yawning-portal.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/tales-from-the-yawning-portal.index" />
-		<file name="tomb-of-annihilation.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/tomb-of-annihilation.index" />
-		<file name="xanathars-guide-to-everything.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/xanathars-guide-to-everything.index" />
-		<file name="mordenkainens-tome-of-foes.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/mordenkainens-tome-of-foes.index" />
-		<file name="waterdeep-dragon-heist.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/waterdeep-dragon-heist.index" />
-		<file name="waterdeep-dungeon-of-the-mad-mage.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/waterdeep-dungeon-of-the-mad-mage.index" />
-		<file name="guildmasters-guide-to-ravnica.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/guildmasters-guide-to-ravnica.index" />
-		<file name="ghosts-of-saltmarsh.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/ghosts-of-saltmarsh.index" />
-		<file name="acquisitions-incorporated.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/acquisitions-incorporated.index" />
-		<file name="descent-into-avernus.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/descent-into-avernus.index" />
-		<file name="eberron-rising-from-the-last-war.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/eberron-rising-from-the-last-war.index" />
-		<file name="explorers-guide-to-wildemount.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/explorers-guide-to-wildemount.index" />
-		<file name="mythic-odysseys-of-theros.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/mythic-odysseys-of-theros.index" />
-		<file name="rime-of-the-frostmaiden.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/rime-of-the-frostmaiden.index" />
-		<file name="tashas-cauldron-of-everything.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/tashas-cauldron-of-everything.index" />
-		<file name="candlekeep-mysteries.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/candlekeep-mysteries.index" />
-		<file name="van-richtens-guide-to-ravenloft.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/van-richtens-guide-to-ravenloft.index" />
-		<file name="wild-beyond-the-witchlight.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/wild-beyond-the-witchlight.index" />
-		<file name="fizbans-treasury-of-dragons.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/fizbans-treasury-of-dragons.index" />
-		<file name="strixhaven-a-curriculum-of-chaos.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/strixhaven-a-curriculum-of-chaos.index" />
-		<file name="critical-role-call-of-the-netherdeep.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/critical-role-call-of-the-netherdeep.index" />
-		<file name="monsters-of-the-multiverse.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/monsters-of-the-multiverse.index" />
-		<file name="journeys-through-the-radiant-citadel.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/journeys-through-the-radiant-citadel.index" />
-		<file name="astral-adventurers-guide.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/astral-adventurers-guide.index" />
-		<file name="boos-astral-menagerie.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/boos-astral-menagerie.index" />
-		<file name="light-of-xaryxis.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/light-of-xaryxis.index" />
-		<file name="dragonlance-shadow-of-the-dragon-queen.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/dragonlance-shadow-of-the-dragon-queen.index" />
-		<file name="keys-from-the-golden-vault.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/keys-from-the-golden-vault.index" />
-		<file name="glory-of-the-giants.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/glory-of-the-giants.index" />
-		<file name="phandelver-and-below-the-shattered-obelisk.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/phandelver-and-below-the-shattered-obelisk.index" />
-		<file name="sigil-and-the-outlands.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/sigil-and-the-outlands.index" />
-		<file name="mortes-planar-parade.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/mortes-planar-parade.index" />
-		<file name="the-book-of-many-things.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/the-book-of-many-things.index" />
+		<file name="lost-mines-phandelver.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/lost-mines-phandelver.index" />
+		<file name="hoard-of-the-dragon-queen.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/hoard-of-the-dragon-queen.index" />
+		<file name="rise-of-tiamat.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/rise-of-tiamat.index" />
+		<file name="princes-of-the-apocalypse.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/princes-of-the-apocalypse.index" />
+		<file name="out-of-the-abyss.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/out-of-the-abyss.index" />
+		<file name="sword-coast-adventurers-guide.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/sword-coast-adventurers-guide.index" />
+		<file name="curse-of-strahd.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/curse-of-strahd.index" />
+		<file name="storm-kings-thunder.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/storm-kings-thunder.index" />
+		<file name="volos-guide-to-monsters.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/volos-guide-to-monsters.index" />
+		<file name="tales-from-the-yawning-portal.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/tales-from-the-yawning-portal.index" />
+		<file name="tomb-of-annihilation.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/tomb-of-annihilation.index" />
+		<file name="xanathars-guide-to-everything.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/xanathars-guide-to-everything.index" />
+		<file name="mordenkainens-tome-of-foes.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/mordenkainens-tome-of-foes.index" />
+		<file name="waterdeep-dragon-heist.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/waterdeep-dragon-heist.index" />
+		<file name="waterdeep-dungeon-of-the-mad-mage.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/waterdeep-dungeon-of-the-mad-mage.index" />
+		<file name="guildmasters-guide-to-ravnica.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/guildmasters-guide-to-ravnica.index" />
+		<file name="ghosts-of-saltmarsh.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/ghosts-of-saltmarsh.index" />
+		<file name="acquisitions-incorporated.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/acquisitions-incorporated.index" />
+		<file name="descent-into-avernus.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/descent-into-avernus.index" />
+		<file name="eberron-rising-from-the-last-war.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/eberron-rising-from-the-last-war.index" />
+		<file name="explorers-guide-to-wildemount.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/explorers-guide-to-wildemount.index" />
+		<file name="mythic-odysseys-of-theros.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/mythic-odysseys-of-theros.index" />
+		<file name="rime-of-the-frostmaiden.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/rime-of-the-frostmaiden.index" />
+		<file name="tashas-cauldron-of-everything.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/tashas-cauldron-of-everything.index" />
+		<file name="candlekeep-mysteries.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/candlekeep-mysteries.index" />
+		<file name="van-richtens-guide-to-ravenloft.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/van-richtens-guide-to-ravenloft.index" />
+		<file name="wild-beyond-the-witchlight.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/wild-beyond-the-witchlight.index" />
+		<file name="fizbans-treasury-of-dragons.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/fizbans-treasury-of-dragons.index" />
+		<file name="strixhaven-a-curriculum-of-chaos.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/strixhaven-a-curriculum-of-chaos.index" />
+		<file name="critical-role-call-of-the-netherdeep.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/critical-role-call-of-the-netherdeep.index" />
+		<file name="monsters-of-the-multiverse.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/monsters-of-the-multiverse.index" />
+		<file name="journeys-through-the-radiant-citadel.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/journeys-through-the-radiant-citadel.index" />
+		<file name="astral-adventurers-guide.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/astral-adventurers-guide.index" />
+		<file name="boos-astral-menagerie.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/boos-astral-menagerie.index" />
+		<file name="light-of-xaryxis.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/light-of-xaryxis.index" />
+		<file name="dragonlance-shadow-of-the-dragon-queen.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/dragonlance-shadow-of-the-dragon-queen.index" />
+		<file name="keys-from-the-golden-vault.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/keys-from-the-golden-vault.index" />
+		<file name="glory-of-the-giants.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/glory-of-the-giants.index" />
+		<file name="phandelver-and-below-the-shattered-obelisk.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/phandelver-and-below-the-shattered-obelisk.index" />
+		<file name="sigil-and-the-outlands.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/sigil-and-the-outlands.index" />
+		<file name="mortes-planar-parade.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/mortes-planar-parade.index" />
+		<file name="the-book-of-many-things.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/the-book-of-many-things.index" />
 
-		<file name="adventurers-league.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/adventurers-league.index" />
-		<file name="dnd-beyond.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/dnd-beyond.index" />
-		<file name="misc.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/misc.index" />
+		<file name="adventurers-league.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/adventurers-league.index" />
+		<file name="dnd-beyond.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/dnd-beyond.index" />
+		<file name="misc.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/misc.index" />
 
 		<!-- events -->
-		<file name="extra-life.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/extra-life.index" />
+		<file name="extra-life.index" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/extra-life.index" />
 
 	</files>
 </index>

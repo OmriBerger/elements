@@ -5,7 +5,7 @@
 		<description></description>
 		<author url="https://dnd.wizards.com/products/spelljammer">Astral Adventurer's Guide</author>
 		<update version="0.0.1">
-			<file name="race-plasmoid.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024//supplements/astral-adventurers-guide/races/race-plasmoid.xml" />
+			<file name="race-plasmoid.xml" url="https://raw.githubusercontent.com/OmriBerger/elements/refs/heads/phb2024/supplements/astral-adventurers-guide/races/race-plasmoid.xml" />
 		</update>
 	</info>
 
